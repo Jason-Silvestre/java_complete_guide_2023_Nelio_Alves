@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BOXIN_UNBOXING/BOXIN_UNBOXING.iml" filepath="$PROJECT_DIR$/BOXIN_UNBOXING/BOXIN_UNBOXING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CALCULOS_DATA_HORA/CALCULOS_DATA_HORA.iml" filepath="$PROJECT_DIR$/CALCULOS_DATA_HORA/CALCULOS_DATA_HORA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CLASSES_ABSTRATAS/CLASSES_ABSTRATAS.iml" filepath="$PROJECT_DIR$/CLASSES_ABSTRATAS/CLASSES_ABSTRATAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COMPOSICAO/COMPOSICAO.iml" filepath="$PROJECT_DIR$/COMPOSICAO/COMPOSICAO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COMPOSICAO_STRING_BUILDER/COMPOSICAO_STRING_BUILDER.iml" filepath="$PROJECT_DIR$/COMPOSICAO_STRING_BUILDER/COMPOSICAO_STRING_BUILDER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calendar_legados/Calendar_legados.iml" filepath="$PROJECT_DIR$/Calendar_legados/Calendar_legados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DATAS/DATAS.iml" filepath="$PROJECT_DIR$/DATAS/DATAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Date/Date.iml" filepath="$PROJECT_DIR$/Date/Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ENTRADA_DE_DADOS/ENTRADA_DE_DADOS.iml" filepath="$PROJECT_DIR$/ENTRADA_DE_DADOS/ENTRADA_DE_DADOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ENUM/ENUM.iml" filepath="$PROJECT_DIR$/ENUM/ENUM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCICIO_ARRAY/EXERCICIO_ARRAY.iml" filepath="$PROJECT_DIR$/EXERCICIO_ARRAY/EXERCICIO_ARRAY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCICIO_ARRAY_2/EXERCICIO_ARRAY_2.iml" filepath="$PROJECT_DIR$/EXERCICIO_ARRAY_2/EXERCICIO_ARRAY_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCICIO_ARRAY_3/EXERCICIO_ARRAY_3.iml" filepath="$PROJECT_DIR$/EXERCICIO_ARRAY_3/EXERCICIO_ARRAY_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCICIO_ARRAY_ALTURAS/EXERCICIO_ARRAY_ALTURAS.iml" filepath="$PROJECT_DIR$/EXERCICIO_ARRAY_ALTURAS/EXERCICIO_ARRAY_ALTURAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCICIO_ARRAY_HOTEL/EXERCICIO_ARRAY_HOTEL.iml" filepath="$PROJECT_DIR$/EXERCICIO_ARRAY_HOTEL/EXERCICIO_ARRAY_HOTEL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCICIO_FICACAO_POO_4/EXERCICIO_FICACAO_POO_4.iml" filepath="$PROJECT_DIR$/EXERCICIO_FICACAO_POO_4/EXERCICIO_FICACAO_POO_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCICIO_FIXACAO_1_POO/EXERCICIO_FIXACAO_1_POO.iml" filepath="$PROJECT_DIR$/EXERCICIO_FIXACAO_1_POO/EXERCICIO_FIXACAO_1_POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCICIO_FIXACAO_2_POO/EXERCICIO_FIXACAO_2_POO.iml" filepath="$PROJECT_DIR$/EXERCICIO_FIXACAO_2_POO/EXERCICIO_FIXACAO_2_POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCICIO_FIXACAO_3_POO/EXERCICIO_FIXACAO_3_POO.iml" filepath="$PROJECT_DIR$/EXERCICIO_FIXACAO_3_POO/EXERCICIO_FIXACAO_3_POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCICIO_FIXACAO_METODO_ESTATICO/EXERCICIO_FIXACAO_METODO_ESTATICO.iml" filepath="$PROJECT_DIR$/EXERCICIO_FIXACAO_METODO_ESTATICO/EXERCICIO_FIXACAO_METODO_ESTATICO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCICIO_POLIMORFISMO/EXERCICIO_POLIMORFISMO.iml" filepath="$PROJECT_DIR$/EXERCICIO_POLIMORFISMO/EXERCICIO_POLIMORFISMO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioEstoque/ExercicioEstoque.iml" filepath="$PROJECT_DIR$/ExercicioEstoque/ExercicioEstoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FINALLY/FINALLY.iml" filepath="$PROJECT_DIR$/FINALLY/FINALLY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FOREACH/FOREACH.iml" filepath="$PROJECT_DIR$/FOREACH/FOREACH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HERANCA_POLIMORFISMO/HERANCA_POLIMORFISMO.iml" filepath="$PROJECT_DIR$/HERANCA_POLIMORFISMO/HERANCA_POLIMORFISMO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroducaoPOOExercicios/IntroducaoPOOExercicios.iml" filepath="$PROJECT_DIR$/IntroducaoPOOExercicios/IntroducaoPOOExercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Listas.iml" filepath="$PROJECT_DIR$/Listas/Listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MEMBROS_ESTATICOS/MEMBROS_ESTATICOS.iml" filepath="$PROJECT_DIR$/MEMBROS_ESTATICOS/MEMBROS_ESTATICOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MEMBROS_ESTATICOS_COM_STATIC/MEMBROS_ESTATICOS_COM_STATIC.iml" filepath="$PROJECT_DIR$/MEMBROS_ESTATICOS_COM_STATIC/MEMBROS_ESTATICOS_COM_STATIC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/METODOS_ABSTRATOS/METODOS_ABSTRATOS.iml" filepath="$PROJECT_DIR$/METODOS_ABSTRATOS/METODOS_ABSTRATOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matriz/Matriz.iml" filepath="$PROJECT_DIR$/Matriz/Matriz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TRATAMENTO_DE_EXCECOES/TRATAMENTO_DE_EXCECOES.iml" filepath="$PROJECT_DIR$/TRATAMENTO_DE_EXCECOES/TRATAMENTO_DE_EXCECOES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_complete_guide_2023_Nelio_Alves.iml" filepath="$PROJECT_DIR$/.idea/java_complete_guide_2023_Nelio_Alves.iml" />
+    </modules>
+  </component>
+</project>
