@@ -9,8 +9,8 @@ public class Main {
 
         System.out.println("-----------------------------------------");
         System.out.println(" - É uma sequencia de elementos advinda de uma fonte de dados que oferece \n" +
-                " suporte a operações agregadas. Fonte de dados: \n " +
-                "(colecao; array; funcao de iteracao; recurso de E/S) \n");
+                "   suporte a operações agregadas. Fonte de dados: \n " +
+                "  (colecao; array; funcao de iteracao; recurso de E/S) \n");
 
         System.out.println(" - Declarativa (iteracao interna: escondida do programador \n" +
                 " - Parallel-friendly (imutavel -> thread safe (paralelizado de forma segura \n" +
